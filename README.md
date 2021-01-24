@@ -60,4 +60,16 @@ See figure 7 “Scores by school type”
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%207%20-%20Scores%20by%20School%20type%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
+## Summary
+
+After the in-depth analysis, we can conclude that 461 students are a small population compared to the total district students to significantly impact the metrics mentioned before. 
+
+However, the analysis shows that the major impact for replacing  data was the following:
+-	Average Math Score
+-	Average Reading Score
+-	% Passing Math
+-	% Passing Reading
+-	% Overall Passing
+
+As a reference, these changes are reflected mostly on the Score by School Spending and School Size
 
