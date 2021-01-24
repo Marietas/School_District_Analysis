@@ -71,5 +71,5 @@ However, the analysis shows that the major impact for replacing  data was the fo
 -	% Passing Reading
 -	% Overall Passing
 
-As a reference, these changes are reflected mostly on the Score by School Spending and School Size
+As a reference, these changes are reflected mostly on the Score by School Spending and School Size.
 
