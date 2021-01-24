@@ -22,4 +22,7 @@ See Figure 2 “School Summary Analysis before and after replacing with NaNs”
 
 
 
+![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%203%20-%20School%20peformance%20before%20and%20after%20replacing%20with%20NANs.PNG)
+
+
 
