@@ -44,3 +44,12 @@ See figure 5 “Scores by school spending”
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%205%20--%20Scores%20by%20School%20speeding%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
 
+(iii) 
+
+
+
+
+
+
+![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%206%20-%20Scores%20by%20School%20size%20before%20and%20after%20replacing%20with%20NANs.PNG)
+
