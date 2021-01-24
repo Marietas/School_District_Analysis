@@ -44,12 +44,11 @@ See figure 5 “Scores by school spending”
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%205%20--%20Scores%20by%20School%20speeding%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
 
-(iii) 
+(iii) Scores by school size
 
+Similarly, described for the Scores by school spending, Figure 6 shows a slight decrease in all outcomes related to the range where Thomas High School belongs (Mid-size), thus removing the math and reading data for ninth graders at this high school.
 
-
-
-
+See figure 6 “Scores by school size”
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%206%20-%20Scores%20by%20School%20size%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
