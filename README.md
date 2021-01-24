@@ -54,8 +54,7 @@ See figure 6 “Scores by school size”
 
 (iv)   Scores by school type 
 
-
-
+As shown in Figure 7, there is no impact on the scores by school type. Given the size of the total population (39170 students), the effect of taking 461 students out of the analysis doesn’t affect this metric.  
 
 See figure 7 “Scores by school type”
 
