@@ -46,7 +46,7 @@ See figure 5 “Scores by school spending”
 
 (iii) Scores by school size
 
-Similarly, described for the Scores by school spending, Figure 6 shows a slight decrease in all outcomes related to the range where Thomas High School belongs (Mid-size), thus removing the math and reading data for ninth graders at this high school.
+Similarly described for the Scores by school spending, Figure 6 shows a slight decrease in all outcomes related to the range where Thomas High School belongs (Mid-size), as a consequence of removing the math and reading data for ninth graders at this high school.
 
 See figure 6 “Scores by school size”
 
