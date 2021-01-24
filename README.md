@@ -41,6 +41,6 @@ Considering that the data for the spending was not altered for any school and gr
 
 See figure 5 “Scores by school spending”
 
-![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%205%20-%20Scores%20by%20School%20speeding%20before%20and%20after%20replacing%20with%20NANs.PNG)
+![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%205%20--%20Scores%20by%20School%20speeding%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
 
