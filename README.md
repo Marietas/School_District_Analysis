@@ -52,12 +52,12 @@ See figure 6 “Scores by school size”
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%206%20-%20Scores%20by%20School%20size%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
-(iv)    
+(iv)   Scores by school type 
 
 
 
 
-
+See figure 7 “Scores by school type”
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%207%20-%20Scores%20by%20School%20type%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
