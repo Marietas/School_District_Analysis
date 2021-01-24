@@ -20,7 +20,9 @@ See Figure 2 “School Summary Analysis before and after replacing with NaNs”
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%202%20-%20School%20summary%20analysis%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+As shown in Figure 3 “School Performance before and after replacing with NANs,” the school's performance was not affected, as the % Overall passing was slightly impacted by only 0.31%. In both cases, Thomas High School's ranking remained the same, second place.  
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%203%20-%20School%20peformance%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
