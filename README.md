@@ -35,7 +35,8 @@ As shown in Figure 4, “Math and reading scores by grade before and after repla
 
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%204%20-%20Math%20and%20reading%20scores%20by%20grade%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
+  - Scores by school spending
 
+Considering that the data for the spending was not altered for any school and grade, this metric didn’t directly impact the math and reading scores. 
 
-
-
+See figure 5 “Scores by school spending”
