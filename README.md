@@ -27,6 +27,6 @@ As shown in Figure 3 “School Performance before and after replacing with NANs,
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%203%20-%20School%20peformance%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
 - How does replacing the ninth-grade scores affect the following:
--- Math and reading scores by grade
+  - Math and reading scores by grade
 
 As shown in Figure 4, “Math and reading scores by grade before and after replacing with NANs”, replacing the ninth-grade scores only affected Thomas High School’s results, as they were not considered for the analysis. Therefore, ninth-graders data for this specific high school will display NaNs.
