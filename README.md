@@ -37,7 +37,7 @@ As shown in Figure 4, “Math and reading scores by grade before and after repla
 
 (ii) Scores by school spending
  
-Considering that Thomas High School belongs to the group with a spending per student between 630 dollars and 644 dollars, Figure 5 shows a slight impact on all outcomes since we removed the math and reading data for ninth graders at this high schoo
+Considering that Thomas High School belongs to the group with a spending per student between 630 dollars and 644 dollars, Figure 5 shows a slight impact on all outcomes since we removed the math and reading data for ninth graders at this high school.
 
 See figure 5 “Scores by school spending”
 
