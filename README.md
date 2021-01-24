@@ -13,3 +13,15 @@ Overall, the district summary analysis shows that removing the data for just 461
 ![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%201%20-%20District%20summary%20analysis%20before%20and%20after%20replacing%20with%20NANs.PNG)
 
 
+
+
+
+
+
+
+
+![](https://github.com/Marietas/School_District_Analysis/blob/main/Resources/figure%202%20-%20School%20summary%20analysis%20before%20and%20after%20replacing%20with%20NANs.PNG)
+
+
+
+
